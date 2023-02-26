@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.imgur.com/Wi7rhPs.png",BT SPORT 1
-http://ku3.worldtvip.co/uk_bt_sports_1_hd/index.m3u8
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1388.ts
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.imgur.com/MrHjmX4.png",BT SPORT 2
-http://ku3.worldtvip.co/uk_bt_sports_2_hd/index.m3u8
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1389.ts
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 3" tvg-logo="https://i.imgur.com/Ss2Gf0o.png",BT SPORT 3
-http://ku3.worldtvip.co/uk_bt_sports_3_hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action" tvg-logo="https://i.imgur.com/sngAWff.png",SKY SPORT ACTION
-http://ku3.worldtvip.co/uk_sky_sports_action_hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://i.imgur.com/G1VySM3.png",SKY SPORT CRICKET
-http://ku3.worldtvip.co/uk_sky_sports_cricket_hd/index.m3u8
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1390.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action" tvg-logo="http://platinumxmedia.xyz:8080/images/04f8e0679ed7cbc138d4ac177080b0be.png" group-title="SuperSports",SuperSport Action
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66614.ts
 #EXTINF:-1  tvg-id="" tvg-name="Sky Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png",SKY SPORT F1
-http://ku3.worldtvip.co/uk_sky_sports_f1_hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf" tvg-logo="https://i.imgur.com/nhhbHvs.png",SKY SPORT GOLF
-http://ku3.worldtvip.co/uk_sky_sports_golf_hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event" tvg-logo="https://i.imgur.com/Bi8uR5O.png",SKY SPORT MAIN EVENT 
-http://ku3.worldtvip.co/uk_sky_sports_main_event_hd/index.m3u8
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1401.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby" tvg-logo="http://platinumxmedia.xyz:8080/images/a2843624bcdb705b82d97a13d862e238.png" group-title="SuperSports",SuperSport Rugby
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66607.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Cricket" tvg-logo="http://platinumxmedia.xyz:8080/images/e2182f27c94adc78e9deecc1da385a34.png" group-title="SuperSports",SuperSport Cricket
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66608.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand" tvg-logo="http://platinumxmedia.xyz:8080/images/ad4c133b247c9b50a2adae08faffd885.png" group-title="SuperSports",SuperSport Grandstand
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66612.ts
